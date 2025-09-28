@@ -6,9 +6,20 @@ Passionate IT student exploring modern web and embedded technologies to build in
 
 ## 🔗 Explore  
 
-- 🌐 Portfolio: [hasithgamlath.vercel.app](https://hasithgamlath.vercel.app/)  
-- 💼 LinkedIn: [Hasith Gamlath](https://www.linkedin.com/in/hasith-gamlath-18b957274/)  
-- 📸 Instagram: [hasiya_21](https://instagram.com/hasiya_21)  
+<p align="left">
+  <a href="https://hasithgamlath.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" alt="portfolio" height="30" width="30" /> Portfolio
+  </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hasith-gamlath-18b957274/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /> LinkedIn
+  </a> &nbsp;&nbsp;
+  <a href="mailto:hasithgamlath327@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /> Email
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/hasiya_21" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" /> Instagram
+  </a>
+</p>
 
 ---
 
@@ -47,10 +58,16 @@ Passionate IT student exploring modern web and embedded technologies to build in
 
 ---
 
-## 📫 Contact Me  
+## 🚀 Featured Projects  
 
-- 📨 Email: hasithgamlath327@gmail.com  
-- 📍 Location: Katubedda, Sri Lanka  
+| Project | Description | Tech Stack |
+|---|---|---|
+| **SalonMe** | Full-stack salon management app with profile & appointment scheduling | React, Node.js, Express, TypeScript, MongoDB, Tailwind, Cloudinary |
+| **Real-Time Chat App** | One-on-one chat with typing indicators & online status | React, Node.js, Socket.io, MongoDB, Tailwind |
+| **Household Water Management** | IoT dashboard monitoring real-time water usage | ESP32, React, Firebase |
+| **Line Follower Car** | Autonomous line-tracking robot | ESP32 / Arduino, C++ |
+| **Medical Appointment System** | Patient booking & doctor schedule management | Laravel, PHP, MySQL, Blade, JavaScript |
+| **GitHub Repo Dashboard** | Real-time repo stats dashboard using GitHub API | Ballerina, JavaScript, HTML, CSS |
 
 ---
 
