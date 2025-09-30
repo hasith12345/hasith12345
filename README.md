@@ -55,8 +55,6 @@ Passionate IT student exploring modern web and embedded technologies to build in
 | **Real-Time Chat App** | One-on-one chat with typing indicators & online status | React, Node.js, Socket.io, MongoDB, Tailwind |
 | **Household Water Management** | IoT dashboard monitoring real-time water usage | ESP32, React, Firebase |
 | **Line Follower Car** | Autonomous line-tracking robot | ESP32 / Arduino, C++ |
-| **Medical Appointment System** | Patient booking & doctor schedule management | Laravel, PHP, MySQL, Blade, JavaScript |
-| **GitHub Repo Dashboard** | Real-time repo stats dashboard using GitHub API | Ballerina, JavaScript, HTML, CSS |
 
 ---
 
