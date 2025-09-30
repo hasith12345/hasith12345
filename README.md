@@ -2,7 +2,7 @@
 
 Passionate IT student exploring modern web and embedded technologies to build innovative and user-friendly solutions.  
 
----
+
 
 ## 🔗 Explore  
 
@@ -10,7 +10,7 @@ Passionate IT student exploring modern web and embedded technologies to build in
 - 💼 LinkedIn: [Hasith Gamlath](https://www.linkedin.com/in/hasith-gamlath-18b957274/)  
 - 📸 Instagram: [hasiya_21](https://instagram.com/hasiya_21)  
 
----
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hasith12345&label=Profile%20views&color=0e75b6&style=flat" alt="hasith12345" /> 
@@ -22,7 +22,7 @@ Passionate IT student exploring modern web and embedded technologies to build in
   </a> 
 </p>
 
----
+
 
 ## 🛠️ Languages and Tools  
 
@@ -45,7 +45,7 @@ Passionate IT student exploring modern web and embedded technologies to build in
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
----
+
 
 ## 🚀 Featured Projects  
 
@@ -56,13 +56,13 @@ Passionate IT student exploring modern web and embedded technologies to build in
 | **Household Water Management** | IoT dashboard monitoring real-time water usage | ESP32, React, Firebase |
 | **Line Follower Car** | Autonomous line-tracking robot | ESP32 / Arduino, C++ |
 
----
+
 
 ## 📫 Contact Me  
 
 - 📨 Email: hasithgamlath327@gmail.com  
 - 📍 Location: Katubedda, Sri Lanka  
 
----
+
 
 ✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀  
