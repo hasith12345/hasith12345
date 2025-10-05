@@ -12,9 +12,6 @@ Passionate IT student exploring modern web and embedded technologies to build in
 
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hasith12345&label=Profile%20views&color=0e75b6&style=flat" alt="hasith12345" /> 
-</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
