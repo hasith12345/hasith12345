@@ -6,7 +6,6 @@ Passionate IT student exploring modern web and embedded technologies to build in
 ## 🔗 Explore  
 - 🌐 Portfolio: [hasithgamlath.vercel.app](https://hasithgamlath.vercel.app/)  
 - 💼 LinkedIn: [Hasith Gamlath](https://www.linkedin.com/in/hasith-gamlath-18b957274/)  
-- 📸 Instagram: [hasiya_21](https://instagram.com/hasiya_21)  
 
 
 
