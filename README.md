@@ -1,11 +1,9 @@
 # Hi there 👋 I’m Hasith Gamlath  
-
 Passionate IT student exploring modern web and embedded technologies to build innovative and user-friendly solutions.  
 
 
 
 ## 🔗 Explore  
-
 - 🌐 Portfolio: [hasithgamlath.vercel.app](https://hasithgamlath.vercel.app/)  
 - 💼 LinkedIn: [Hasith Gamlath](https://www.linkedin.com/in/hasith-gamlath-18b957274/)  
 - 📸 Instagram: [hasiya_21](https://instagram.com/hasiya_21)  
@@ -22,7 +20,6 @@ Passionate IT student exploring modern web and embedded technologies to build in
 
 
 ## 🛠️ Languages and Tools  
-
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -45,7 +42,6 @@ Passionate IT student exploring modern web and embedded technologies to build in
 
 
 ## 🚀 Featured Projects  
-
 | Project | Description | Tech Stack |
 |---|---|---|
 | **SalonMe** | Full-stack salon management app with profile & appointment scheduling | React, Node.js, Express, TypeScript, MongoDB, Tailwind, Cloudinary |
