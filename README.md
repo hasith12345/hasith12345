@@ -44,7 +44,5 @@ Passionate about full-stack web development, and building user-friendly applicat
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="30" height="30" alt="GitHub" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" height="30" alt="Docker" title="Docker"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="30" height="30" alt="Figma" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="30" height="30" alt="Photoshop" title="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="30" height="30" alt="Arduino" title="Arduino"/>
 </div>
 
