@@ -21,11 +21,10 @@ Passionate about full-stack web development, and building user-friendly applicat
     Email
   </a>
 </p>
-</br>
 
 <h3 align="left">Tech Stack</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50" alt="C" title="C"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" height="30" alt="C" title="C"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="50" height="50" alt="Java" title="Java"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="50" height="50" alt="Python" title="Python"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="50" height="50" alt="TypeScript" title="TypeScript"/>
