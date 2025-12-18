@@ -2,13 +2,8 @@
 
 <p align="left">
 B.Sc. (Hons.) IT & Management undergraduate<br/>
-Passionate about full-stack web development and embedded systems
+Passionate about full-stack web development and building user-friendly applications using modern web technologies
 </p>
-
----
-
-### 👨‍💻 About Me
-I am an enthusiastic IT undergraduate who enjoys building practical, user-friendly applications using modern web technologies and embedded systems. I’m continuously learning and improving my skills through academic, personal, and team projects.
 
 ---
 
