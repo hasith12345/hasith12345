@@ -23,7 +23,7 @@ Passionate about full-stack web development, and building user-friendly applicat
 </p>
 </br>
 
-###Tech stack
+<h3 align="left">Tech Stack</h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50" alt="C" title="C"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="50" height="50" alt="Java" title="Java"/>
