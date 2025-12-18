@@ -21,7 +21,3 @@ Passionate about full-stack web development, and building user-friendly applicat
     Email
   </a>
 </p>
-
-<p align="center">
-Thanks for visiting my profile
-</p>
