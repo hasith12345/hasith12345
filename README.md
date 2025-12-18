@@ -21,12 +21,9 @@ Passionate about full-stack web development, and building user-friendly applicat
     Email
   </a>
 </p>
+</br>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
+###Tech stack
 <div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="50" height="50" alt="C" title="C"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="50" height="50" alt="Java" title="Java"/>
@@ -38,36 +35,16 @@ Passionate about full-stack web development, and building user-friendly applicat
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="50" height="50" alt="React.js" title="React.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
-</div>
-
-### Frontend
-<div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="HTML" title="HTML"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50" alt="CSS" title="CSS"/>
-</div>
-
-### Database
-<div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="50" height="50" alt="MongoDB" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="50" height="50" alt="MySQL" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-</div>
-
-### Tools & Platforms
-<div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50" height="50" alt="Git" title="Git"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50" alt="Docker" title="Docker"/>
-</div>
-
-### Design
-<div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="50" height="50" alt="Figma" title="Figma"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="50" height="50" alt="Photoshop" title="Photoshop"/>
-</div>
-
-### Hardware & IoT
-<div align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="50" height="50" alt="Arduino" title="Arduino"/>
 </div>
