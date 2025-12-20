@@ -16,9 +16,10 @@ Passionate about full-stack web development, and building user-friendly applicat
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://hasithgamlath.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-C2B34F?style=for-the-badge"/>
   </a>
 </p>
+
 
 
 <h3 align="left">Tech Stack</h3>
