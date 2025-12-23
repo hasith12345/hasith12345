@@ -1,22 +1,7 @@
 <p align="left">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-      ?font=Inter
-      &weight=600
-      &size=38
-      &duration=4000
-      &pause=1000
-      &color=63D1FF
-      &background=00000000
-      &center=false
-      &vCenter=true
-      &multiline=false
-      &repeat=true
-      &width=700
-      &height=60
-      &lines=H+A+S+I+T+H++G+A+M+L+A+T+H"
-  />
+  <img src="https://camo.githubusercontent.com/15e3931589c7418aa539facd9b5769069fb74ee7a541d4f218f1e8d5f4bd97a1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3361383239362c3130303a303931353139266865696768743d31353026746578743d48616d7a616f7569253230416d696e6526666f6e7453697a653d353026666f6e74436f6c6f723d36314441464226666f6e74416c69676e593d343526616e696d6174696f6e3d7477696e6b6c696e672673656374696f6e3d686561646572" alt="Hasith Gamlath Animated Header" width="700"/>
 </p>
+
 
 
 <p align="left">
