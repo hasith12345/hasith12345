@@ -1,8 +1,6 @@
 <p align="left">
-  <img src="https://camo.githubusercontent.com/15e3931589c7418aa539facd9b5769069fb74ee7a541d4f218f1e8d5f4bd97a1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3361383239362c3130303a303931353139266865696768743d31353026746578743d48616d7a616f7569253230416d696e6526666f6e7453697a653d353026666f6e74436f6c6f723d36314441464226666f6e74416c69676e593d343526616e696d6174696f6e3d7477696e6b6c696e672673656374696f6e3d686561646572" alt="Hasith Gamlath Animated Header" width="700"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=63D1FF&left=true&vCenter=true&width=600&lines=Hasith+Gamlath" />
 </p>
-
-
 
 <p align="left">
 B.Sc. (Hons.) IT & Management undergraduate<br/>
@@ -11,7 +9,7 @@ Passionate about full-stack web development and building user-friendly applicati
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 <p align="left">
   <a href="mailto:hasithgamlath327@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=63D1FF"/>
@@ -29,7 +27,7 @@ Passionate about full-stack web development and building user-friendly applicati
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" title="C"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="30" title="Java"/>
