@@ -1,6 +1,23 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=63D1FF&left=true&vCenter=true&width=600&lines=Hasith+Gamlath" />
+  <img 
+    src="https://readme-typing-svg.demolab.com
+      ?font=Inter
+      &weight=600
+      &size=38
+      &duration=4000
+      &pause=1000
+      &color=63D1FF
+      &background=00000000
+      &center=false
+      &vCenter=true
+      &multiline=false
+      &repeat=true
+      &width=700
+      &height=60
+      &lines=H+A+S+I+T+H++G+A+M+L+A+T+H"
+  />
 </p>
+
 
 <p align="left">
 B.Sc. (Hons.) IT & Management undergraduate<br/>
