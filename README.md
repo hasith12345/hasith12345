@@ -3,8 +3,8 @@
 </p>
 
 <p align="left">
-B.Sc. (Hons.) IT & Management undergraduate<br/>
-Passionate about full-stack web development and building user-friendly applications using modern web technologies.
+  <strong>B.Sc. (Hons.) IT & Management undergraduate</strong><br/>
+  Passionate about full-stack web development and building user-friendly applications using modern web technologies.
 </p>
 
 ---
