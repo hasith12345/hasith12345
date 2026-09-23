@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./name.svg" alt="<p> Hasith Gamlath </p>" />
+  <img src="./name.svg" alt="<p> <b>Hasith Gamlath </p>" />
 </p>
 
 <p align="left">
