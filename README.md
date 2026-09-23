@@ -29,26 +29,44 @@
 
 ### Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" title="C"/>
+  <!-- Languages -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="30" title="Java"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="30" title="Python"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="30" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="30" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="30" title="React"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" title="C"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="30" title="React / React Native"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="30" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" width="30" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="30" title="Express.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="30" title="Django"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" width="30" title="Angular"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Light.svg" width="30" title="Vite"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="30" title="HTML"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="30" title="CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" width="30" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="30" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="30" title="MySQL"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" width="30" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" width="30" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" width="30" title="NestJS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="30" title="Django"/>
+
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" width="30" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="30" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="30" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DynamoDB-Light.svg" width="30" title="Amazon DynamoDB"/>
+
+  <!-- Cloud & DevOps -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" width="30" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" width="30" title="Google Cloud Platform"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Light.svg" width="30" title="Vercel"/>
+
+  <!-- Version Control & Tools -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="30" title="Git"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="30" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="30" title="Postman"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="30" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Light.svg" width="30" title="Vercel"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="30" title="Arduino"/>
 </p>
