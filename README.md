@@ -28,6 +28,7 @@
 ---
 
 ### Tech Stack
+### Tech Stack
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="30" title="Java"/>
@@ -36,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="30" title="TypeScript"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="30" title="C"/>
 
-  <!-- Frontend -->
+  <!-- Frontend & Mobile -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="30" title="React / React Native"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="30" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" width="30" title="Angular"/>
@@ -56,17 +57,38 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="30" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="30" title="MongoDB"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DynamoDB-Light.svg" width="30" title="Amazon DynamoDB"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Light.svg" width="30" title="Supabase"/>
 
   <!-- Cloud & DevOps -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" width="30" title="AWS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" width="30" title="Google Cloud Platform"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" width="30" title="Azure DevOps"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" width="30" title="GitHub Actions"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Light.svg" width="30" title="Vercel"/>
+
+  <!-- Testing -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="30" title="Jest"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="30" title="Postman"/>
 
   <!-- Version Control & Tools -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="30" title="Git"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="30" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="30" title="Postman"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" width="30" title="Figma"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" width="30" title="Arduino"/>
+</p>
+
+### AI, Voice & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-000000?style=flat&logo=amazonwebservices&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat&logo=databricks&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Twilio-000000?style=flat&logo=twilio&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Stripe-000000?style=flat&logo=stripe&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Apify-000000?style=flat&logo=apify&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Nx-000000?style=flat&logo=nx&logoColor=63D1FF"/>
+  <img src="https://img.shields.io/badge/Playwright-000000?style=flat&logo=googlechrome&logoColor=63D1FF"/>
 </p>
