@@ -20,7 +20,7 @@
   <a href="https://instagram.com/hasiya_21">
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=63D1FF"/>
   </a>
-  <a href="https://hasithgamlath.vercel.app">
+  <a href="https://hasith.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=63D1FF"/>
   </a>
 </p>
