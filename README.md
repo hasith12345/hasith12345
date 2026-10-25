@@ -82,13 +82,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Amazon%20Bedrock-000000?style=flat&logo=amazonwebservices&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/RAG-000000?style=flat&logo=databricks&logoColor=63D1FF"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=63D1FF"/>
-  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/Twilio-000000?style=flat&logo=twilio&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/Stripe-000000?style=flat&logo=stripe&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/Apify-000000?style=flat&logo=apify&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=63D1FF"/>
-  <img src="https://img.shields.io/badge/Nx-000000?style=flat&logo=nx&logoColor=63D1FF"/>
   <img src="https://img.shields.io/badge/Playwright-000000?style=flat&logo=googlechrome&logoColor=63D1FF"/>
 </p>
