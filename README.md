@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=63D1FF"/>
   </a>
   <a href="https://hasith.me">
-    <img src="https://img.shields.io/badge/hasith.me-000000?style=flat&logo=world&logoColor=63D1FF"/>
+    <img src="https://img.shields.io/badge/hasith.me-000000?style=flat&logo=googlechrome&logoColor=63D1FF"/>
   </a>
 </p>
 
